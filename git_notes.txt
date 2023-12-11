@@ -1,0 +1,8 @@
+Basics of Github:
+
+Config in github: 
+To do we need to install github.
+Once installation is completed, In cmd, type 'git' and verify whether git is installed correctly or not.
+then, to config our profile, type
+'git config --global user.name "Suguna-Priya"' and click enter. Then,
+'git config --global user.email "sugunasampath007@gmail.com"' and click enter.
