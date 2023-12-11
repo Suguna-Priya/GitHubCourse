@@ -6,3 +6,5 @@ Once installation is completed, In cmd, type 'git' and verify whether git is ins
 then, to config our profile, type
 'git config --global user.name "Suguna-Priya"' and click enter. Then,
 'git config --global user.email "sugunasampath007@gmail.com"' and click enter.
+
+
