@@ -8,6 +8,11 @@ then, to config our profile, type
 'git config --global user.email "sugunasampath007@gmail.com"' and click enter.
 
 Clone the git files into local folder:
-To do that, open vscode with the folder which you want. Then cmd or terminal with that folder path and type like below,
-'git clone '
+1. To do that, open vscode with the folder which you want. Then cmd or terminal with that folder path and type like below,
+    'git clone https://github.com/Suguna-Priya/GitHubCourse.git'
+    Here the link which i got it from github code option-> choose http then copy the link.
+2. Now you will get the files/folders which is present in github repository.
+3. Once you got the folder, there are 1 hidden folder(.git) will be there. It only connecting the browser github and our local folder. 
 
+How to add our local folder to git?
+1. In terminal, change the directory to 
