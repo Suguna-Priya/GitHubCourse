@@ -7,4 +7,7 @@ then, to config our profile, type
 'git config --global user.name "Suguna-Priya"' and click enter. Then,
 'git config --global user.email "sugunasampath007@gmail.com"' and click enter.
 
+Clone the git files into local folder:
+To do that, open vscode with the folder which you want. Then cmd or terminal with that folder path and type like below,
+'git clone '
 
